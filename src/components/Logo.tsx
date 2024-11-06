@@ -21,7 +21,7 @@ const Logo = () => {
         <div className="absolute w-1.5 h-1.5 bg-black rounded-full -left-3 top-1/2 transform -translate-y-1/2" />
         <div className="absolute w-1.5 h-1.5 bg-black rounded-full -right-3 top-1/2 transform -translate-y-1/2" />
       </div>
-      <span className="text-xl font-semibold">Fossdl</span>
+      <span className="text-xl font-semibold ml-4">Fossdl</span>
     </div>
   );
 };
